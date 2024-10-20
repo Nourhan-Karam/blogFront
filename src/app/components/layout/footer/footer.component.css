@@ -1,0 +1,9 @@
+.bg-footer {
+  /* background-color: #e9d7baac; */
+  background-color: #3c5b6f;
+}
+
+input .form-control {
+  outline: none !important;
+  border: none !important;
+}
